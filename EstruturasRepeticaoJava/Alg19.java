@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Alg18 {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
-        System.out.print("Digite o número de elementos do conjunto (0-1000): ");
+        System.out.print("Digite o número de elementos do conjunto: ");
         int n = teclado.nextInt();
         int menor = 1000, maior = 0, soma = 0, num = 1001;
         for (int i = 1; i <= n; i++) {
