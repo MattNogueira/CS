@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Alg9{
+public class Alg09{
   public static void main(String[] args) {
     //Declaração de variáveis//
     Scanner input = new Scanner(System.in);
