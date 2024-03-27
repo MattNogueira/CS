@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Alg1 {
+public class Alg01 {
   public static void main(String[] args) {
     //Declaração de variáveis//
     Scanner teclado = new Scanner(System.in);
