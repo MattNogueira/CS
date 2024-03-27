@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Alg8 {
+public class Alg08 {
   public static void main(String[] args) {
     Scanner teclado = new Scanner(System.in);
     int soma = 0;
