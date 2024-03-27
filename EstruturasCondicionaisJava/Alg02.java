@@ -1,7 +1,7 @@
 //Importando o Scanner para entrada de dados//
 import java.util.Scanner;
 
-public class Alg2 {
+public class Alg02 {
   public static void main(String[] args) {
     // Variável de variáveis//
     Scanner input = new Scanner(System.in);
