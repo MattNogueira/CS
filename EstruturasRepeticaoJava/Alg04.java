@@ -1,4 +1,4 @@
-public class Alg4 {
+public class Alg04 {
   public static void main(String[] args) {
     //Declaração de variáveis//
     int populacaoA = 80000, populacaoB = 200000, anos = 0;
