@@ -12,7 +12,7 @@ public class Alg31 {
       i++;
     } while (preco != 0);
     System.out.println("Total da compra: R$ " + total);
-    System.out.print("Digite o valor em dinheiro fornecido pelo cliente: R$ ");
+    System.out.print("Dinheiro: R$ ");
     entregue = teclado.nextDouble();
     System.out.println("Troco: R$ " + (entregue - total));
     teclado.close();
