@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Alg7 {
+public class Alg07 {
   public static void main(String[] args) {
     //Declaração de variáveis//
     Scanner input = new Scanner(System.in);
