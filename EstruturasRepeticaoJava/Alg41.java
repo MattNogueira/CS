@@ -15,10 +15,10 @@ public class Alg41 {
       if (i == 0) {
         i = 1;
         juros = 0;
-        String formattedDivida = String.format("%-" + dividaWidth + ".2f", divida);
-        String formattedJuros = String.format("%-" + jurosWidth + "d", (int) juros);
+        String formattedDivida = String.format("R$ %-" + (dividaWidth - 3) + ".2f", divida);
+        String formattedJuros = String.format("R$ %-" + (jurosWidth - 3)+ ".2f", juros);
         String formattedQParcela = String.format("%-" + qParcelaWidth + "d", i);
-        String formattedVParcela = String.format("%-" + vParcelaWidth + ".2f", divida);
+        String formattedVParcela = String.format("R$ %-" + (vParcelaWidth - 3) + ".2f", divida);
         System.out.println(formattedDivida + formattedJuros + formattedQParcela + formattedVParcela);
         i = 0;
         juros = 10;
@@ -26,10 +26,10 @@ public class Alg41 {
       if (i >= 3) {
         taxa = (juros/100+1);
         valorParcela = divida * (taxa / i);
-        String formattedDivida = String.format("%-" + dividaWidth + ".2f", divida * taxa);
-        String formattedJuros = String.format("%-" + jurosWidth + ".2f", (divida * taxa) - divida);
+        String formattedDivida = String.format("R$ %-" + (dividaWidth - 3) + ".2f", divida * taxa);
+        String formattedJuros = String.format("R$ %-" + (jurosWidth - 3) + ".2f", (divida * taxa) - divida);
         String formattedQParcela = String.format("%-" + qParcelaWidth + "d", i);
-        String formattedVParcela = String.format("%-" + vParcelaWidth + ".2f", valorParcela);
+        String formattedVParcela = String.format("R$ %-" + (vParcelaWidth - 3) + ".2f", valorParcela);
         System.out.println(formattedDivida + formattedJuros + formattedQParcela + formattedVParcela);
         juros += 5;
       }
