@@ -3,9 +3,9 @@ import java.util.Scanner;
 public class Alg43 {
   public static void main(String[] args) {
     Scanner teclado = new Scanner(System.in);
-    int codigo, quantidade = 0, nomeWidth = 16, precoWidth = 8, contador = 0;
+    int codigo, quantidade = 0, nomeWidth = 16, precoWidth = 8;
     double preco = 0, total = 0, constante = 0;
-    String[] s = {"", "", "", "", "", ""}, pedidos = {"Cachorro Quente","Bauru Simples","Bauru com ovo","Hambúrguer","Cheeseburguer","Refrigerante"};
+    String[] s = new String[6], pedidos = {"Cachorro Quente","Bauru Simples","Bauru com ovo","Hambúrguer","Cheeseburguer","Refrigerante"};
 
     for (int i = 0; i <= 5; i++) {
       s[i] = String.format("%-" + (nomeWidth) + "sR$ %-" + (precoWidth - 1) + ".2f", pedidos[i], constante);
