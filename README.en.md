@@ -1,5 +1,5 @@
 # CS-Codes
-[![pt-br](https://img.shields.io/badge/lang-pt--br-blue.svg)](https://github.com/MattNogueira/CS-Codes/edit/main/README.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-blue.svg)](https://github.com/MattNogueira/CS-Codes/blob/main/README.md)
 
 General activities carried out during the computer science course.
 ##### Folders
