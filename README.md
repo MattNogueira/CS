@@ -1,4 +1,5 @@
 # CS-Codes
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/MattNogueira/CS-Codes/edit/main/README.en.md)
 Atividades gerais realizadas durante o curso de ciência da computação.
 ##### Pastas
 - [AlgoritmosSimplesPython](https://github.com/MattNogueira/CS-Codes/tree/main/AlgoritmosSimplesPython): Algoritmos simples em Python. Atividade 1 da matéria Programação de Soluções Computacionais. As questões são derivadas [deste arquivo](https://docs.google.com/document/d/1u575pBvshdoXfwUVSfCWFbrqmmnT_oa0IayQNBCAe9Y/edit?usp=sharing).
