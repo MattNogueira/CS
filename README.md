@@ -1,5 +1,5 @@
 # CS-Codes
-[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/MattNogueira/CS-Codes/main/README.en.md)
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/MattNogueira/CS-Codes/blob/main/README.en.md)
 
 Atividades gerais realizadas durante o curso de ciência da computação.
 ##### Pastas
