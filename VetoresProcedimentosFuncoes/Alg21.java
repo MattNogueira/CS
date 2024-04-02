@@ -16,7 +16,7 @@ public class Alg21 {
     for (int i = 0; i < 5; i++) {
       saldo += entrada[i] - saida[i];
     }
-    System.out.println("Saldo: R$" + saldo);
+    System.out.printf("Saldo: R$%.2f" , saldo);
     teclado.close();
   }
 }
