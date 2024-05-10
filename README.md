@@ -13,5 +13,5 @@ Atividades gerais realizadas durante o curso de bacharel em ciência da computa�
 - [EmpregadosetgetPOO](https://github.com/MattNogueira/CS-Codes/tree/main/EmpregadosetgetPOO): Classe e orientação a objeto em Java com métodos set e get. Atividade 7 parcial, 2° Questão da unidade curricular Programação de Soluções Computacionais. As questões são derivadas [deste link](https://docs.google.com/document/d/1NzW0j2tgukRP-KEH3qla0x8wrDIBZGm7m3-_w0gcI_g/edit).
 - Atividade 8 em grupo pendente.
 - [ListaHerançaPOO](https://github.com/MattNogueira/CS-Codes/tree/main/ListaHerancaPOO): Classe e orientação a objeto em Java com métodos get e set e herança. Atividade 9 da matéria Programação de Soluções Computacionais. As questões são derivadas [deste link](https://docs.google.com/document/d/1AWWr8Omu0gsfHFrB78zQFcnd-u-EjX8j/edit).
-- Atividade 10 pendente.
+- Atividade 10 em grupo pendente.
 - [PoliHero](https://github.com/MattNogueira/CS-Codes/tree/main/PoliHero): Classe e orientação a objeto em Java com métodos get e set e herança. Atividade 11 da unidade curricular Programação de Soluções Computacionais. As questões são derivadas [deste link](https://docs.google.com/document/d/13xq9VL2AI2VO3nw5aIUe96lcmb8h9RO8/edit?usp=sharing&ouid=111020856611809207124&rtpof=true&sd=true).
