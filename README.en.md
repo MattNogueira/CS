@@ -1,7 +1,13 @@
-# CS-Codes
-[![pt-br](https://img.shields.io/badge/lang-pt--br-blue.svg)](https://github.com/MattNogueira/CS-Codes/blob/main/README.md)
+![Stylized image with purple tones with a laptop on a table next to a cup of coffee. The laptop screen has lines that refer to programming practice and the cup has a small yellow pet paw printed on its side.](https://github.com/MattNogueira/CS-Codes/assets/68824409/edfe3096-ce6f-4c2f-88bf-0f3cac3d27d5)
+##### *Image by fullvector on Freepik*
 
-General activities carried out during the computer science course. All text from question source links are written in Brazilian Portuguese.
+# Course Codes
+[![pt-br](https://img.shields.io/badge/lang-pt--br-blue.svg)](https://github.com/MattNogueira/CS-Codes/blob/main/README.md)
+> General activities carried out during the computer science course. All text from question source links are written in Brazilian Portuguese. The activities were required and evaluated for completion of the course. The code version of each activity is delivered for evaluation and the order of arrangement is chronological.
+##### Tecnologias utilizadas
+- Languages: Java;
+- Skills: Data structures, conditional structures, repeat structures, arrays, procedures, functions, object-oriented programming, heritage, excepton treatment, group work, file management.
+
 ##### Folders
 - [AlgoritmosSimplesPython](https://github.com/MattNogueira/CS-Codes/tree/main/AlgoritmosSimplesPython): Simple Python Algorithms. Activity 1 of the curricular unit Programming of Computational Solutions. Questions come from [here](https://docs.google.com/document/d/1u575pBvshdoXfwUVSfCWFbrqmmnT_oa0IayQNBCAe9Y/edit?usp=sharing).
 - [EstruturasDecisaoJava](https://github.com/MattNogueira/CS-Codes/tree/main/EstruturasDecisaoJava): Conditional structures in Java. Activity 2 of the curricular unit Programming of Computational Solutions. Questions come from [here](https://docs.google.com/document/d/1DzrxZJ84K93h5aKyMrLIkQ72j50zmgR6Ow8C_9OqmuM/edit).
@@ -15,3 +21,4 @@ General activities carried out during the computer science course. All text from
 - [ListaHerançaPOO](https://github.com/MattNogueira/CS-Codes/tree/main/ListaHerancaPOO): Class and object-oriented programming in Java with get and set methods and inheritance. Activity 7 of the curricular unit Programming of Computational Solutions. Questions come from [here](https://docs.google.com/document/d/1AWWr8Omu0gsfHFrB78zQFcnd-u-EjX8j/edit).
 - Pending activity 10.
 - [PoliHero](https://github.com/MattNogueira/CS-Codes/tree/main/PoliHero): Class and object-oriented programming in Java with get and set methods and inheritance. Activity 7 of the curricular unit Programming of Computational Solutions. Questions come from [here](https://docs.google.com/document/d/13xq9VL2AI2VO3nw5aIUe96lcmb8h9RO8/edit?usp=sharing&ouid=111020856611809207124&rtpof=true&sd=true).
+- 
