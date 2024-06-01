@@ -1,8 +1,12 @@
-# CS-Codes
-[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/MattNogueira/CS-Codes/blob/main/README.en.md)
+![Imagem estilizada com tons de roxo com um laptop sobre uma mesa junto de um copo de café. A tela do laptop possui linhas que remetem à prática de programação e o copo possui uma pequena pata amarela de um animal de estimação estampada em sua lateral.](https://github.com/MattNogueira/CS-Codes/assets/68824409/edfe3096-ce6f-4c2f-88bf-0f3cac3d27d5)
+##### *Imagem por fullvector em Freepik*
 
-Atividades gerais realizadas durante o curso de bacharel em ciência da computação.
-##### Pastas
+# Códigos do Curso
+> Atividades gerais realizadas durante o curso de bacharel em ciência da computação. As atividades foram requeridas e avaliadas para a conclusão do curso. A versão do código de cada atividade é a entregue para avaliação e a ordem de disposição é cronológica.
+##### Tecnologias utilizadas
+- Linguagens: Java;
+- Competências: Estrutura de dados, estruturas condicionais, estruturas de repetição, vetores, programação orientada a objetos, herança, tratamento de exceção, trabalho em grupo, manipulação de arquivos.
+##### Atividades
 - [AlgoritmosSimplesPython](https://github.com/MattNogueira/CS-Codes/tree/main/AlgoritmosSimplesPython): Algoritmos simples em Python. Atividade 1 da unidade curricular Programação de Soluções Computacionais. As questões são derivadas [deste arquivo](https://docs.google.com/document/d/1u575pBvshdoXfwUVSfCWFbrqmmnT_oa0IayQNBCAe9Y/edit?usp=sharing).
 - [EstruturasDecisaoJava](https://github.com/MattNogueira/CS-Codes/tree/main/EstruturasDecisaoJava): Estruturas condicionais em Java. Atividade 2 da unidade curricular Programação de Soluções Computacionais. As questões são derivadas [deste arquivo](https://docs.google.com/document/d/1DzrxZJ84K93h5aKyMrLIkQ72j50zmgR6Ow8C_9OqmuM/edit).
 - [EstruturasRepeticaoJava](https://github.com/MattNogueira/CS-Codes/tree/main/EstruturasRepeticaoJava): Estruturas de repetição em Java. Atividade 3 da unidade curricular Programação de Soluções Computacionais. As questões são derivadas [deste link](https://wiki.python.org.br/EstruturaDeRepeticao).
@@ -15,3 +19,5 @@ Atividades gerais realizadas durante o curso de bacharel em ciência da computa�
 - [ListaHerançaPOO](https://github.com/MattNogueira/CS-Codes/tree/main/ListaHerancaPOO): Classe e orientação a objeto em Java com métodos get e set e herança. Atividade 9 da matéria Programação de Soluções Computacionais. As questões são derivadas [deste link](https://docs.google.com/document/d/1AWWr8Omu0gsfHFrB78zQFcnd-u-EjX8j/edit).
 - Atividade 10 em grupo pendente.
 - [PoliHero](https://github.com/MattNogueira/CS-Codes/tree/main/PoliHero): Classe e orientação a objeto em Java com métodos get e set e herança. Atividade 11 da unidade curricular Programação de Soluções Computacionais. As questões são derivadas [deste link](https://docs.google.com/document/d/13xq9VL2AI2VO3nw5aIUe96lcmb8h9RO8/edit?usp=sharing&ouid=111020856611809207124&rtpof=true&sd=true).
+- [ElevadorTryExcept](https://github.com/MattNogueira/CS-Codes/tree/main/ElevadorTryExcept): Classe e orientação a objeto em Java com tratamento de exceção. Atividade 12 da unidade curricular Programação de Soluções Computacionais. A questão deriva de uma extensão de outra atividade, ElevadorPOO, atividade 6, mas com tratamento de exceção.
+- [ElevadorLogExcept](https://github.com/MattNogueira/CS-Codes/tree/main/ElevadorLogExcept): Classe e orientação a objeto em Java com tratamento de exceção e manipulação de arquivo. Atividade 13 da unidade curricular Programação de Soluções Computacionais. A questão deriva da questão anterior, ElevadorTryExcept, atividade 12, mas com manipulação de arquivos para registro de erros, vulgo log.
