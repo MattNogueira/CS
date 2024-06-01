@@ -2,6 +2,7 @@
 ##### *Imagem por fullvector em Freepik*
 
 # Códigos do Curso
+[![en](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/MattNogueira/CS-Codes/blob/main/README.en.md)
 > Atividades gerais realizadas durante o curso de bacharel em ciência da computação. As atividades foram requeridas e avaliadas para a conclusão do curso. A versão do código de cada atividade é a entregue para avaliação e a ordem de disposição é cronológica.
 ##### Tecnologias utilizadas
 - Linguagens: Java;
