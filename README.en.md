@@ -4,9 +4,9 @@
 # Course Codes
 [![pt-br](https://img.shields.io/badge/lang-pt--br-blue.svg)](https://github.com/MattNogueira/CS-Codes/blob/main/README.md)
 > General activities carried out during the computer science course. All text from question source links are written in Brazilian Portuguese. The activities were required and evaluated for completion of the course. The code version of each activity is delivered for evaluation and the order of arrangement is chronological.
-##### Tecnologias utilizadas
+##### USed technologies
 - Languages: Java;
-- Skills: Data structures, conditional structures, repeat structures, arrays, procedures, functions, object-oriented programming, heritage, excepton treatment, group work, file management.
+- Skills: Data structures, conditional structures, repeat structures, arrays, procedures, functions, object-oriented programming, heritage, excepton handling, group work, file manipulation.
 
 ##### Folders
 - [AlgoritmosSimplesPython](https://github.com/MattNogueira/CS-Codes/tree/main/AlgoritmosSimplesPython): Simple Python Algorithms. Activity 1 of the curricular unit Programming of Computational Solutions. Questions come from [here](https://docs.google.com/document/d/1u575pBvshdoXfwUVSfCWFbrqmmnT_oa0IayQNBCAe9Y/edit?usp=sharing).
@@ -20,5 +20,6 @@
 - Pending activity 8.
 - [ListaHerançaPOO](https://github.com/MattNogueira/CS-Codes/tree/main/ListaHerancaPOO): Class and object-oriented programming in Java with get and set methods and inheritance. Activity 7 of the curricular unit Programming of Computational Solutions. Questions come from [here](https://docs.google.com/document/d/1AWWr8Omu0gsfHFrB78zQFcnd-u-EjX8j/edit).
 - Pending activity 10.
-- [PoliHero](https://github.com/MattNogueira/CS-Codes/tree/main/PoliHero): Class and object-oriented programming in Java with get and set methods and inheritance. Activity 7 of the curricular unit Programming of Computational Solutions. Questions come from [here](https://docs.google.com/document/d/13xq9VL2AI2VO3nw5aIUe96lcmb8h9RO8/edit?usp=sharing&ouid=111020856611809207124&rtpof=true&sd=true).
-- 
+- [PoliHero](https://github.com/MattNogueira/CS-Codes/tree/main/PoliHero): Class and object-oriented programming in Java with get and set methods and inheritance. Activity 11 of the curricular unit Programming of Computational Solutions. Questions come from [here](https://docs.google.com/document/d/13xq9VL2AI2VO3nw5aIUe96lcmb8h9RO8/edit?usp=sharing&ouid=111020856611809207124&rtpof=true&sd=true).
+- [ElevadorTryExcept](https://github.com/MattNogueira/CS-Codes/tree/main/ElevadorTryExcept): Class and object-oriented programming in Java with exception handling. Activity 12 of the curricular unit Programming of Computational Solutions. The question is an extension of another activity, ElevadorPOO, activity 6, but with exception handling.
+- [ElevadorLogExcept](https://github.com/MattNogueira/CS-Codes/tree/main/ElevadorLogExcept): Class and object-oriented programming in Java with exception handling. Activity 13 of the curricular unit Programming of Computational Solutions. The question is an extension of the previous activity, ElevadorTryExcept, activity 12, but with file manipulation to write down errors on a file named log.
