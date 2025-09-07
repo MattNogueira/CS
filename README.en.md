@@ -4,22 +4,21 @@
 # Course Codes
 [![pt-br](https://img.shields.io/badge/lang-pt--br-blue.svg)](https://github.com/MattNogueira/CS-Codes/blob/main/README.md)
 > General activities carried out during the computer science course. All text from question source links are written in Brazilian Portuguese. The activities were required and evaluated for completion of the course. The code version of each activity is delivered for evaluation and the order of arrangement is chronological.
-##### USed technologies
-- Languages: Java;
-- Skills: Data structures, conditional structures, repeat structures, arrays, procedures, functions, object-oriented programming, heritage, excepton handling, group work, file manipulation.
 
-##### Folders
-- [AlgoritmosSimplesPython](https://github.com/MattNogueira/CS-Codes/tree/main/AlgoritmosSimplesPython): Simple Python Algorithms. Activity 1 of the curricular unit Programming of Computational Solutions. Questions come from [here](https://docs.google.com/document/d/1u575pBvshdoXfwUVSfCWFbrqmmnT_oa0IayQNBCAe9Y/edit?usp=sharing).
-- [EstruturasDecisaoJava](https://github.com/MattNogueira/CS-Codes/tree/main/EstruturasDecisaoJava): Conditional structures in Java. Activity 2 of the curricular unit Programming of Computational Solutions. Questions come from [here](https://docs.google.com/document/d/1DzrxZJ84K93h5aKyMrLIkQ72j50zmgR6Ow8C_9OqmuM/edit).
-- [EstruturasRepeticaoJava](https://github.com/MattNogueira/CS-Codes/tree/main/EstruturasRepeticaoJava): Repeat strucutres in Java. Activity 3 of the curricular unit Programming of Computational Solutions. Questions come from [here](https://wiki.python.org.br/EstruturaDeRepeticao).
-- [VetoresProcedimentosFuncoes](https://github.com/MattNogueira/CS-Codes/tree/main/VetoresProcedimentosFuncoes): Arrays, procedures and functions in Java. Activity 4 of the curricular unit Programming of Computational Solutions. Questions come from [here](https://docs.google.com/document/d/1t4JT8VsNWuPi4gONpbJdUsKV1AYmXzhF/edit?pli=1).
-- [DesafioHSBC](https://github.com/MattNogueira/CS-Codes/tree/main/DesafioHSBC): Small challenge featuring arrays. Activity 4 of the curricular unit Programming of Computational Solutions carried out in a large group. Questions come from [here](https://drive.google.com/file/d/14bCWVdUes-W3SNZrI-5i6kSyEyexQ3DZ/view).
-- [ElevadorPOO](https://github.com/MattNogueira/CS-Codes/tree/main/ElevadorPOO): Class and object-oriented programming in Java. Activity 6 of the curricular unit Programming of Computational Solutions. Questions come from [here](https://docs.google.com/document/d/1B3lvOxGMOf3349fYrRSQFTabI1gjwYAPhudHOqiU24Q/edit?usp=sharing).
-- [FaturagetsetPOO](https://github.com/MattNogueira/CS-Codes/tree/main/FaturagetsetPOO): Class and object-oriented programming in Java with get and set methods. Partial activity 7 of the curricular unit Programming of Computational Solutions, first question. Questions come from [here](https://docs.google.com/document/d/1NzW0j2tgukRP-KEH3qla0x8wrDIBZGm7m3-_w0gcI_g/edit).
-- [EmpregadosetgetPOO](https://github.com/MattNogueira/CS-Codes/tree/main/EmpregadosetgetPOO): Class and object-oriented programming in Java with get and set methods. Partial activity 7 of the curricular unit Programming of Computational Solutions, second question. Questions come from [here](https://docs.google.com/document/d/1NzW0j2tgukRP-KEH3qla0x8wrDIBZGm7m3-_w0gcI_g/edit).
-- Pending activity 8.
-- [ListaHerançaPOO](https://github.com/MattNogueira/CS-Codes/tree/main/ListaHerancaPOO): Class and object-oriented programming in Java with get and set methods and inheritance. Activity 7 of the curricular unit Programming of Computational Solutions. Questions come from [here](https://docs.google.com/document/d/1AWWr8Omu0gsfHFrB78zQFcnd-u-EjX8j/edit).
-- Pending activity 10.
-- [PoliHero](https://github.com/MattNogueira/CS-Codes/tree/main/PoliHero): Class and object-oriented programming in Java with get and set methods and inheritance. Activity 11 of the curricular unit Programming of Computational Solutions. Questions come from [here](https://docs.google.com/document/d/13xq9VL2AI2VO3nw5aIUe96lcmb8h9RO8/edit?usp=sharing&ouid=111020856611809207124&rtpof=true&sd=true).
-- [ElevadorTryExcept](https://github.com/MattNogueira/CS-Codes/tree/main/ElevadorTryExcept): Class and object-oriented programming in Java with exception handling. Activity 12 of the curricular unit Programming of Computational Solutions. The question is an extension of another activity, ElevadorPOO, activity 6, but with exception handling.
-- [ElevadorLogExcept](https://github.com/MattNogueira/CS-Codes/tree/main/ElevadorLogExcept): Class and object-oriented programming in Java with exception handling. Activity 13 of the curricular unit Programming of Computational Solutions. The question is an extension of the previous activity, ElevadorTryExcept, activity 12, but with file manipulation to write down errors on a file named log.
+## Programming of Computational Solutions
+- [AlgoritmosSimplesPython](https://github.com/MattNogueira/CS-Codes/tree/main/PSC/AlgoritmosSimplesPython)
+- [EstruturasDecisaoJava](https://github.com/MattNogueira/CS-Codes/tree/main/PSC/EstruturasDecisaoJava)
+- [EstruturasRepeticaoJava](https://github.com/MattNogueira/CS-Codes/tree/main/PSC/EstruturasRepeticaoJava)
+- [VetoresProcedimentosFuncoes](https://github.com/MattNogueira/CS-Codes/tree/main/PSC/VetoresProcedimentosFuncoes)
+- [DesafioHSBC](https://github.com/MattNogueira/CS-Codes/tree/main/PSC/DesafioHSBC)
+- [ElevadorPOO](https://github.com/MattNogueira/CS-Codes/tree/main/PSC/ElevadorPOO)
+- [FaturagetsetPOO](https://github.com/MattNogueira/CS-Codes/tree/main/PSC/FaturagetsetPOO)
+- [EmpregadosetgetPOO](https://github.com/MattNogueira/CS-Codes/tree/main/PSC/EmpregadosetgetPOO)
+- [ListaHerancaPOO](https://github.com/MattNogueira/CS-Codes/tree/main/PSC/ListaHerancaPOO)
+- [PoliHero](https://github.com/MattNogueira/CS-Codes/tree/main/PSC/PoliHero)
+- [ElevadorTryExcept](https://github.com/MattNogueira/CS-Codes/tree/main/PSC/ElevadorTryExcept)
+- [ElevadorLogExcept](https://github.com/MattNogueira/CS-Codes/tree/main/PSC/ElevadorLogExcept)
+## AI
+- [AgenteDeletaOS](https://github.com/MattNogueira/CS-Codes/tree/main/IA/AgenteDeletaOS)
+- [IA-Perceptron](https://github.com/MattNogueira/CS-Codes/tree/main/IA/IA-Perceptron)
+- [MachineLearningIntroduction](https://github.com/MattNogueira/CS-Codes/tree/main/IA/MachineLearningIntroduction)

@@ -21,4 +21,4 @@
 ## Inteligência Artificial
 - [AgenteDeletaOS](https://github.com/MattNogueira/CS-Codes/tree/main/IA/AgenteDeletaOS)
 - [IA-Perceptron](https://github.com/MattNogueira/CS-Codes/tree/main/IA/IA-Perceptron)
-- [MachineLearningIntrodu...](https://github.com/MattNogueira/CS-Codes/tree/main/IA/MachineLearningIntroduction)
+- [MachineLearningIntroduction](https://github.com/MattNogueira/CS-Codes/tree/main/IA/MachineLearningIntroduction)
