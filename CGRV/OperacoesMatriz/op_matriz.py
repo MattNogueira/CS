@@ -19,6 +19,17 @@ def create_scaling_matrix(sx, sy):
         [0.0, 0.0, 0.0, 1.0]
     ], dtype=np.float32)
 
+def create_rotation_matrix(angle):
+    rad = np.radians(angle)
+    cos = np.cos(rad)
+    sin = np.sin(rad)
+    return np.array([
+        [cos, -sin, 0.0, 0.0],
+        [sin, cos, 0.0, 0.0],
+        [0.0, 0.0, 1.0, 0.0],
+        [0.0, 0.0, 0.0, 1.0]
+    ], dtype=np.float32)
+
 # Inicializa janela
 glfw.init()
 glfw.window_hint(glfw.CONTEXT_VERSION_MAJOR, 2)
@@ -29,6 +40,7 @@ glfw.make_context_current(window)
 x_pos, y_pos = 0.0, 0.0
 speed = 0.001
 fator_scaling = 1.0
+fator_angulo = 0.0
 
 while not glfw.window_should_close(window):
     glfw.poll_events()
@@ -38,6 +50,12 @@ while not glfw.window_should_close(window):
         fator_scaling += 0.01
     if glfw.get_key(window, glfw.KEY_KP_SUBTRACT) or glfw.get_key(window, glfw.KEY_MINUS) == glfw.PRESS:  # numpad -
         fator_scaling -= 0.01
+
+    # Rotação
+    if glfw.get_key(window, glfw.KEY_Q) == glfw.PRESS:
+        fator_angulo += 1
+    if glfw.get_key(window, glfw.KEY_E) == glfw.PRESS:
+        fator_angulo -= 1
 
     # Teclas
     if glfw.get_key(window, glfw.KEY_RIGHT) or glfw.get_key(window, glfw.KEY_D) == glfw.PRESS:
@@ -53,6 +71,7 @@ while not glfw.window_should_close(window):
     if glfw.get_key(window, glfw.KEY_R) == glfw.PRESS:
         x_pos, y_pos = 0.0, 0.0
         fator_scaling = 1.0
+        fator_angulo = 0.0
     if glfw.get_key(window, glfw.KEY_SPACE) == glfw.PRESS:
         # Escala o tamanho do triângulo em 1.5x
         glScalef(1.5, 1.5, 0.0)
@@ -64,8 +83,10 @@ while not glfw.window_should_close(window):
     # Cria e aplica a matriz de translação
     translation_matrix = create_translation_matrix(x_pos, y_pos)
     scale_matrix = create_scaling_matrix(fator_scaling, fator_scaling)
+    rotation_matrix = create_rotation_matrix(fator_angulo)
 
-    transformation_matrix = np.dot(translation_matrix, scale_matrix)
+    # Ordem das transformações: escala -> rotação -> translação
+    transformation_matrix = np.dot(translation_matrix, np.dot(rotation_matrix, scale_matrix))
 
     glLoadMatrixf(transformation_matrix.T) # OpenGL usa matriz coluna principal
 
